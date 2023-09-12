@@ -1,0 +1,2 @@
+# Developer_Group_Meeting_App_ReactTS-Backen_Frontend_MySQL
+Developer Group Meeting App is a comprehensive web application tailored for developers to manage, schedule, and view their group meetings. It boasts a robust backend 💼 and a sleek frontend 🖥, ensuring a seamless experience for users. The backend is powered by Node.js, Express.js, and MySQL, while the frontend shines with React and TypeScript.
