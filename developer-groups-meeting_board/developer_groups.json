@@ -1,0 +1,18 @@
+[
+	{
+		"d_group_code" : 1,
+		"d_group_name" : "UI Team"
+	},
+	{
+		"d_group_code" : 2,
+		"d_group_name" : "Mobile Team"
+	},
+	{
+		"d_group_code" : 3,
+		"d_group_name" : "database Team"
+	},
+	{
+		"d_group_code" : 4,
+		"d_group_name" : "jquery"
+	}
+]

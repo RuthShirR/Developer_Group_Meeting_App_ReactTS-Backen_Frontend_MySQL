@@ -1,0 +1,90 @@
+[
+	{
+		"meeting_code" : 2,
+		"d_group_code" : 2,
+		"start_meeting_date_time" : "2023-06-22 15:24:00",
+		"end_meeting_date_time" : "2023-06-22 16:24:00",
+		"meeting_description" : "confrence",
+		"meeting_room" : "the pink room"
+	},
+	{
+		"meeting_code" : 3,
+		"d_group_code" : 3,
+		"start_meeting_date_time" : "2023-06-21 14:25:00",
+		"end_meeting_date_time" : "2023-06-21 15:25:00",
+		"meeting_description" : "catch up",
+		"meeting_room" : "the red room"
+	},
+	{
+		"meeting_code" : 16,
+		"d_group_code" : 1,
+		"start_meeting_date_time" : "2023-06-21 14:59:00",
+		"end_meeting_date_time" : "2023-06-21 17:59:00",
+		"meeting_description" : "confrence",
+		"meeting_room" : "the red room"
+	},
+	{
+		"meeting_code" : 26,
+		"d_group_code" : 2,
+		"start_meeting_date_time" : "2023-06-21 19:03:00",
+		"end_meeting_date_time" : "2023-06-21 21:03:00",
+		"meeting_description" : "catch up",
+		"meeting_room" : "the pink room"
+	},
+	{
+		"meeting_code" : 27,
+		"d_group_code" : 2,
+		"start_meeting_date_time" : "2023-06-22 18:12:00",
+		"end_meeting_date_time" : "2023-06-22 19:12:00",
+		"meeting_description" : "catch up",
+		"meeting_room" : "the pink room"
+	},
+	{
+		"meeting_code" : 29,
+		"d_group_code" : 4,
+		"start_meeting_date_time" : "2023-06-30 19:45:00",
+		"end_meeting_date_time" : "2023-06-30 22:45:00",
+		"meeting_description" : "breif",
+		"meeting_room" : "the pink room"
+	},
+	{
+		"meeting_code" : 30,
+		"d_group_code" : 4,
+		"start_meeting_date_time" : "2023-06-30 16:46:00",
+		"end_meeting_date_time" : "2023-06-30 18:46:00",
+		"meeting_description" : "catch up",
+		"meeting_room" : "the pink room"
+	},
+	{
+		"meeting_code" : 31,
+		"d_group_code" : 1,
+		"start_meeting_date_time" : "2023-06-21 19:48:00",
+		"end_meeting_date_time" : "2023-06-21 20:48:00",
+		"meeting_description" : "catch up",
+		"meeting_room" : "the pink room"
+	},
+	{
+		"meeting_code" : 32,
+		"d_group_code" : 2,
+		"start_meeting_date_time" : "2023-06-22 17:00:00",
+		"end_meeting_date_time" : "2023-06-22 18:00:00",
+		"meeting_description" : "catch up",
+		"meeting_room" : "the red room"
+	},
+	{
+		"meeting_code" : 33,
+		"d_group_code" : 2,
+		"start_meeting_date_time" : "2023-06-23 17:11:00",
+		"end_meeting_date_time" : "2023-06-23 21:18:00",
+		"meeting_description" : "catch up",
+		"meeting_room" : "the pink room"
+	},
+	{
+		"meeting_code" : 34,
+		"d_group_code" : 1,
+		"start_meeting_date_time" : "2023-06-28 17:29:00",
+		"end_meeting_date_time" : "2023-06-28 18:27:00",
+		"meeting_description" : "confrence",
+		"meeting_room" : "the red room"
+	}
+]
